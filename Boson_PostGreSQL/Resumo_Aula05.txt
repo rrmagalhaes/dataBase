@@ -1,0 +1,2 @@
+Aula 05 - Instalação no Oracle Linux 7
+Sem vídeo, apenas tutorial com a série de comandos para realizar, sendo que o gerenciador de pacotes no caso é o Yum, tutorial funcional tbm para red hat e centOS.

@@ -1,0 +1,2 @@
+Aula 02 - Instalação Debian 8 e 9
+Sem vídeo, apenas tutorial com a série de comandos para realizar, muito parecido com a aula 1.

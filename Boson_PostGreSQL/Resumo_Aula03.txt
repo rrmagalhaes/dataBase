@@ -1,0 +1,9 @@
+Aula 03 - Instalação no Windows
+
+Realizar o download em https://www.postgresql.org/download/windows/
+
+Basicamente é um next/next/finish com detalhe para escolher os diretórios de instalação e dados, opção de deixar padrão.
+Verificar tbm questão da senha do superuser (postgres) e a porta.
+
+Em caso de erro "Error running post install step. Installation may not complete correctly. Error reading C:/Program Files/PostgreSQL/9.2/postgresql.conf" na instalação, há no tutorial em texto como corrigir:
+http://www.bosontreinamentos.com.br/postgresql-banco-dados/instalacao-do-postgresql-no-microsoft-windows/

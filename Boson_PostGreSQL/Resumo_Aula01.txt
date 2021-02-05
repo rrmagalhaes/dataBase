@@ -1,0 +1,16 @@
+aula 01 - Instalação no Debian
+Nesta aula é mostrado como instalar o PostGreSql no Debian/Linux.
+
+Pontos importantes:
+- Após os comandos de instalação para entrar no prompt do PostGre é "sudo -u postgres psql postgres
+- alterar a senha do acesso ao banco é "\passoword postgres" aí digitar senha
+- Instalar adminpack.
+- Criar banco com "sudo -u postgres createdb -O userCriado dbTeste"
+
+Para acessar de outras máquina alterar /etc/postgresql/9.1/ main/postgresql.conf
+descomentando o listen_addresses = ‘localhost‘ e o port.
+
+\l lista os bancos
+\connect dbTeste conecta no banco dbTeste
+
+Consultar comandos da instalação em http://www.bosontreinamentos.com.br/postgresql-banco-dados/postgresql-instalacao-do-sgbd-no-linux-debian-01/

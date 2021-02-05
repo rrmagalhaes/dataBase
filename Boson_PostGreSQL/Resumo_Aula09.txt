@@ -1,0 +1,6 @@
+Aula 09 - CRIANDO UM CHAVE ESTRANGEIRA EM POSTGRESQL
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado como colocar na criação da tabela, e tbm em tabelas já existentes.
+
+Interessante a questão das cláusulas ON DELETE / ON UPDATE CASCADE, onde quando colocada na FOREING KEY, aplica opção de deletar ou atualizar os dados em cascata atráces das relações.

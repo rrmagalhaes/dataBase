@@ -1,0 +1,7 @@
+Aula 15 - Como filtrar consultas com cláusula WHERE no PostgreSQL
+
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado em exemplos práticos como utilizar filtros WHERE.
+
+Interessante que introduz uma função CAST() para conversão de de dados, que segundo o tutotrial será abordado mais a frente.

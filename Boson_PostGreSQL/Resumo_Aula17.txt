@@ -1,0 +1,7 @@
+Aula 17 - Como ordenar consultas com cláusula ORDER BY no PostgreSQL
+
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado em exemplos práticos como utilizar ORDER BY.
+
+Além de falar sobre ORDER BR ASC/DESC tbm foi apresentado a possibilidade de usar o NULLS FIRST/LAST onde você escolhe em qual ordem vai aparecer os valores nulos.

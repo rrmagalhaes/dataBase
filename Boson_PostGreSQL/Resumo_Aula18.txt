@@ -1,0 +1,6 @@
+Aula 18 - Excluir Registros no PostgreSQL – DELETE e TRUNCATE TABLE
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado em exemplos práticos como utilizar DELETE com a condição WHERE e TRUNCATE TABLE.
+
+Basicamente TRUNCATE TABLE exclui todos os registros de uma tabela.

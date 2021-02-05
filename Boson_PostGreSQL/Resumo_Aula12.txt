@@ -1,0 +1,5 @@
+Aula 12 - Auto-incremento no PostgreSQL com SERIAL
+
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado em exemplos práticos o funcionamento do auto incremento com SERIAL, com resultados mostrados por select.

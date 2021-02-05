@@ -1,0 +1,15 @@
+Aula 07 - Tipos de dados no PostGres
+Sem vídeo, apenas tutorial com as principais informações dos tipos de dados utilizados nesse tipo de banco de dados.
+
+Principais exemplos:
+Date
+Timestamp
+Time
+Int
+smallint
+numeric
+varchar()
+char()
+money
+array
+boolean

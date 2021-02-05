@@ -1,0 +1,8 @@
+Aula 08 - CONSTRAINTS
+Sem vídeo, apenas tutorial com as CONSTRAINTS dispóniveis e exemplos de sintaxe e como utilizar.
+
+NOT NULL
+UNIQUE
+PRIMARY KEY
+FOREING KEY
+CHECK

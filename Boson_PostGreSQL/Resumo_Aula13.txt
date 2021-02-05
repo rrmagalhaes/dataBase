@@ -1,0 +1,7 @@
+Aula 13 - Como inserir dados em tabelas no PostgreSQL com INSERT INTO
+
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado em exemplos práticos com ofazer inserção nas tabelas.
+
+Foi utilizado algumas maneiras de se fazer as inserções, tanto maneiras mais verbosas, como algumas mais simplificados utiliznado várias inserções em um único INSERT INTO.

@@ -1,0 +1,5 @@
+Aula 14 - Consultas simples em tabelas – a declaração SELECT no PostgreSQL
+
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado em exemplos práticos com ofazer SELECTS SIMPLES filtrando colunas ou com o curinga *.

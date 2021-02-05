@@ -1,0 +1,5 @@
+Aula 11 - Como listar Bancos de Dados e Tabelas no PostgreSQL
+
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado os principais comandos para listar bancos e tabelas via linha de comando no psql.

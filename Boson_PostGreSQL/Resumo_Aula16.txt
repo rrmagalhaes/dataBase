@@ -1,0 +1,7 @@
+Aula 16 - Operadores de Comparação em PostgreSQL
+
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado em exemplos práticos como utilizar comparadores.
+
+No tutorial tbm é apresentado a palavra chave AND, que serve para adicionar comparações no filtro.

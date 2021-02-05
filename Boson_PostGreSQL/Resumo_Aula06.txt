@@ -1,0 +1,7 @@
+Aula 06 - Criação de banco via psql (linha de comando)
+Sem vídeo, apenas tutorial com a série de comandos para realizar, sendo o principal comando:
+createdb
+utilizei o comando abaixo na versão que utilizo:
+
+CREATE DATABASE nomeBanco WITH OWNER=user ENCODING=
+UTF8 CONNECTION LIMIT=-1;

@@ -1,0 +1,10 @@
+Aula 04 - Instalando phpPgAdmin para gerenciamento remoto. Linux
+
+apt-get intall phppgadmin
+
+Após instalação, configurar dois arquivos de configuração.
+phppgadmin.conf e apache2.conf
+
+Instruções em:
+http://www.bosontreinamentos.com.br/postgresql-banco-dados/postgresql-instalando-o-phppgadmin-para-gerenciamento-remoto-do-sgbd-02/
+

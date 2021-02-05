@@ -1,0 +1,6 @@
+Aula 10 - CRIANDO TABELAS COM CREATE TABLE
+Sem vídeo, apenas tutorial com as expliações sobre o funcionamento e mostrando a sintaxe.
+
+Mostrado como criar tabelas e o relacionamento entre elas pelas chaves primárias e estrangeiras com um exemplo prático e com as sintaxes corretas.
+
+Utilizado SERIAL para incrementação automática de campos.
